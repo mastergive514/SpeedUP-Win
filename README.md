@@ -4,17 +4,17 @@ Speed up is a free python file, can speed up your pc!
 
 
 # Instalation
-Download files in your pc
+**Download files in your pc**
 
-''git clone https://github.com/mastergive514/SpeedUP-Win.git''
+```$ git clone https://github.com/mastergive514/SpeedUP-Win.git```
 
-go to Directory of files
+**go to Directory of files**
 
-''cd SpeedUP-Win''
+```$ cd SpeedUP-Win```
 
-Run SpeedUP
+**Run SpeedUP**
 
-''Speedup.exe''
+```$ Speedup.exe```
 
 
 # Credits
